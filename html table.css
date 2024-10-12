@@ -1,0 +1,21 @@
+ body{
+    margin: 50px;
+    padding: 10px;
+    color: black; 
+}
+ h1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+h3{
+    background-color: gray;
+    height: 30px;
+}
+
+table{
+    text-transform: capitalize;
+}
+h4{
+    cell
+}
